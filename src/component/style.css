@@ -1,0 +1,24 @@
+.avr-home {
+background-color: #eaeef0;
+font-weight: 700;
+}
+.home-text{
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: grid;
+    justify-content: center;
+}
+.logo{
+    display: flex;
+    font-weight: 700;
+}
+.nav-colour{
+    background-color:#bbf4ff;
+}
+.padding{
+    padding-bottom: 20px;
+}
+.img{
+    width: max-content;
+}
